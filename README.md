@@ -3,4 +3,6 @@ The Alliance Horde Translator helps players communicate between the Alliance and
 
 🔥 [Start Alliance Horde Translator](https://dlgram.com/lqIns)
 
+Note : Be careful using this translator to avoid getting banned
+
 The translator typically works by analyzing the text entered by one player and then converting it into the corresponding language of the other faction.
